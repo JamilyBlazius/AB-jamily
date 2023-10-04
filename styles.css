@@ -1,3 +1,5 @@
+
+
 @import url(style/header.css);
 @import url(style/banner.css);
 @import url(style/carrossel.css);
@@ -10,6 +12,7 @@
     --preto: #000000;
     --cinza: #474646;
     --cinza-claro: #858585;
+    --azul: #002f52;
 
 }
 

@@ -1,2 +1,3 @@
-# AluraBooksJamily2C
+# AluraBooksJamily
+
 Site desenvolvido com a professora Vla
